@@ -112,6 +112,11 @@
     .preloader{
       display: none;
     }
+      
+    .header{
+      padding-right: 1rem;
+      margin-bottom: 0.2rem;
+    }
 
     .video_container{
       display: flex;
