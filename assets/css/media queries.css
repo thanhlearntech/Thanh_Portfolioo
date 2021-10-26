@@ -34,23 +34,11 @@
       width: auto;
       margin: 0;
     }
-
-    /* .skills {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      align-self: center;
+    
+    .preloader{
+      display: none;
     }
-    .discover{
-      padding-left: 8rem;
-    }
-    .video{
-       padding-left: 8rem;
-    }
-    video {
-      width: 300px;
-    } */
+      
     .video_container{
       display: flex;
       justify-content: center;
